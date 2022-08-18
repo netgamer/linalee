@@ -1108,12 +1108,6 @@ a {
 .cid-tev5BsAfjS P {
   color: #353535;
 }
-.cid-sFF3CYc3p7 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-sFF0ciwnEL {
   z-index: 1000;
   width: 100%;
@@ -1548,12 +1542,6 @@ a {
 }
 .cid-tePe5IlEhS P {
   color: #353535;
-}
-.cid-sFF3CYc3p7 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
 }
 .cid-tev7mljBRZ {
   padding-top: 5rem;
@@ -2314,12 +2302,6 @@ a {
 .cid-tev4wDT2yR P {
   color: #353535;
 }
-.cid-tev4wEZuA4 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-tevv5SroNV {
   z-index: 1000;
   width: 100%;
@@ -2747,12 +2729,6 @@ a {
 }
 .cid-tev5s5LJv9 P {
   color: #353535;
-}
-.cid-tev5sS7J5n {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
 }
 .cid-tev7YXl6rz {
   padding-top: 5rem;
@@ -3361,12 +3337,6 @@ a {
 .cid-tev7Z1o09H P {
   color: #353535;
 }
-.cid-tev7Z2o5vA {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-tev918TT5R {
   z-index: 1000;
   width: 100%;
@@ -3839,12 +3809,6 @@ a {
 .cid-tev91ng2WB P {
   color: #353535;
 }
-.cid-tev91orQtg {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-teviyU04Ps {
   z-index: 1000;
   width: 100%;
@@ -4264,7 +4228,7 @@ a {
 }
 .cid-teMAVBNlLr {
   padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-teMAVBNlLr .mbr-fallback-image.disabled {
@@ -4298,7 +4262,7 @@ a {
   width: 1.6rem;
 }
 .cid-teviz87RXM {
-  padding-top: 5rem;
+  padding-top: 8rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
@@ -4335,12 +4299,6 @@ a {
 }
 .cid-teviz87RXM P {
   color: #353535;
-}
-.cid-teviz9ccZh {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
 }
 .cid-tevj5VjBo1 {
   z-index: 1000;
@@ -4691,7 +4649,7 @@ a {
 }
 .cid-teAXdOHhPW {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-teAXdOHhPW .mbr-fallback-image.disabled {
@@ -4790,51 +4748,6 @@ a {
   .cid-teAXdOHhPW .image-wrapper {
     padding: 2rem;
   }
-}
-.cid-tevj5XHAvR {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tevj5XHAvR .image-wrapper {
-  display: flex;
-  align-items: center;
-}
-.cid-tevj5XHAvR .card-wrapper {
-  margin-bottom: 2rem;
-  display: flex;
-  border-radius: 4px;
-  background: #eae7dc;
-}
-@media (max-width: 991px) {
-  .cid-tevj5XHAvR .card-wrapper {
-    padding: 1rem 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tevj5XHAvR .card-wrapper {
-    padding: 2rem 4rem;
-  }
-}
-.cid-tevj5XHAvR .mbr-iconfont {
-  font-size: 2rem;
-  padding-right: 1.5rem;
-  color: #e85a4f;
-}
-.cid-tevj5XHAvR .mbr-section-title {
-  color: #4479d9;
-}
-.cid-tevj5XHAvR .card-title {
-  color: #6592e6;
-}
-.cid-tevj5XHAvR P {
-  color: #353535;
-}
-.cid-tevj5ZeR3g {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
 }
 .cid-tevsjONUG0 {
   z-index: 1000;
@@ -5418,12 +5331,6 @@ a {
 }
 .cid-tevsk3Ec3P P {
   color: #353535;
-}
-.cid-tevsk4Pxtj {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
 }
 .cid-teyHKkNxRQ {
   padding-top: 5rem;
@@ -6184,12 +6091,6 @@ a {
 .cid-teyHKs4eEP P {
   color: #353535;
 }
-.cid-teyHKsLHE2 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-teMHmkrS4F {
   z-index: 1000;
   width: 100%;
@@ -6678,12 +6579,6 @@ a {
 .cid-teMHmo48QA P {
   color: #353535;
 }
-.cid-teMHmp8TKh {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-tePehDYsuX {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -7107,10 +7002,4 @@ a {
 .cid-tePehFly1W .card-title,
 .cid-tePehFly1W .card-box {
   text-align: left;
-}
-.cid-tePehFM0a6 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-  overflow: hidden;
 }
