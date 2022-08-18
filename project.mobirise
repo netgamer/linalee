@@ -57,7 +57,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/polarbear_ex_11-2e-2000x2219.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/linalee1222-2000x1706.jpg"
       },
       "components": [
         {
@@ -636,7 +636,8 @@
     "page2.html": {
       "settings": {
         "title": "link",
-        "meta_descr": "Master Polar Bear Link"
+        "meta_descr": "Master Polar Bear Link",
+        "socialSharingUrl": ""
       },
       "components": [
         {
