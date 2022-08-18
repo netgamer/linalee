@@ -56,7 +56,8 @@
         "meta_descr": "Master Polar Bear & Artist LinaLee",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/polarbear_ex_11-2e-2000x2219.jpg"
       },
       "components": [
         {
