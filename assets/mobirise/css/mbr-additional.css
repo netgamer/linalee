@@ -7385,6 +7385,28 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
+.cid-uBEYw5YRyR {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-uBEYw5YRyR .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-uBEYx7GImS {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-uBEYx7GImS .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-tevsk2Cn5D {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -10688,6 +10710,56 @@ a {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
+}
+.cid-uBEXIEHODO {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-uBEXIEHODO img,
+.cid-uBEXIEHODO .item-img {
+  width: 100%;
+}
+.cid-uBEXIEHODO .item:focus,
+.cid-uBEXIEHODO span:focus {
+  outline: none;
+}
+.cid-uBEXIEHODO .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+  position: relative;
+}
+.cid-uBEXIEHODO .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.cid-uBEXIEHODO .item {
+  padding: 0;
+  margin: 0;
+}
+.cid-uBEXIEHODO .item-wrapper {
+  position: unset;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-uBEXIEHODO .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uBEXIEHODO .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-uBEXIEHODO .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uBEXIEHODO .mbr-section-title {
+  color: #232323;
 }
 .cid-u0yg9FuRQX {
   padding-top: 0rem;
